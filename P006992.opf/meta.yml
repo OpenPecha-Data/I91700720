@@ -5,11 +5,12 @@ source_metadata:
   title: བྱ་རུང་ཁ་ཤོར་གྱི་ལོ་རྒྱུས
   author: ''
   volumes:
-    b8765772b36e4485af7193e534cddb79:
+    b93d3fc09b214b65a0e8b2f554bba82d:
       image_group_id: I00KG09843
-      title: ''
+      title: Volume 1 of bya rung kha shor gyi lo rgyus
       volume_number: 1
       total_pages: 142
+      base_file: v001.txt
 ebook_metadata:
   title: བྱ་རུང་ཁ་ཤོར་གྱི་ལོ་རྒྱུས
   author: ''
